@@ -40,3 +40,4 @@
 * Does the system need the ability to easily allow promotions or job changes?
 * Do workers use the system to contact admins or do workers contact the admins to change something on the system?
 * Should the system handle workers that do multiple jobs (in same company)?
+* How much control of the software should the employees have?
