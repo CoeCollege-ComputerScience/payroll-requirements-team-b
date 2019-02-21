@@ -30,3 +30,13 @@
 * Does the system handle direct deposit/physical checks separately? How can this option be changed?
 * Is the system able to print pay statements itself?
 * Can the system handle changing user emails and passwords?
+
+## Added
+* Do workers get profit sharing or the ability to invest in the company?
+* Are workers able to recieve advance payment?
+* Do admins need to be able to remove workers?
+* Do workers get paid vacation or vacation without pay?
+* Is there worker suspension?
+* Does the system need the ability to easily allow promotions or job changes?
+* Do workers use the system to contact admins or do workers contact the admins to change something on the system?
+* Should the system handle workers that do multiple jobs (in same company)?
