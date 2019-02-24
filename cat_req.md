@@ -16,6 +16,7 @@
 * Employees should be able to edit their personal information.
 * Employees should be able to submit requests which will be visible to admins. Employees will be able to request advance payment, hours, days off, transferrals, and other pay alterations.
 * Employees should be able to logout of the system.
+* Employees should be able to select method of payment, be it physical or direct deposit.
 
 **Admins**
 * Admins should be able to access employee information and modify any non-personal employee information.
@@ -26,6 +27,13 @@
 * Admins should be able to logout of the system.
 
 # Functional Requirements
+* The system shall be able to store employee information.
+* The system shall be able to backup and store records of previous employees and pay cycles.
+* The system shall store login information for each user as well as whether or not they have administrative permissions.
+* The system shall be able to send requests between employees and admins.
+* The system shall be able to handle paychecks based on employee payment information.
+* The system shall be able to generate paychecks according to employee preferences.
+* The system shall be able to move information between records and current information.
 
 # Nonfunctional Requirements
 
