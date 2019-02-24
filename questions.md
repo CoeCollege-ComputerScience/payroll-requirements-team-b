@@ -18,7 +18,6 @@
 * Where will data be backed up?
 * What types of employees are there? (full-time, part-time, etc)
 
-
 ## Added questions
 * How does the system handle user profile information and passwords?
 * Is the system able to notify employees and employers when payment is recieved?
