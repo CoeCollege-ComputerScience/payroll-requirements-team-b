@@ -49,6 +49,7 @@
 * Any taxes/extra fees applicable will be calculated and deducted from the employees wage before displaying the final result to them.
 * The user will be informed of what taxes or extra fees are causing their earnings total to be less that what they may have initially predicted.
 * Different commands are available for each user. They are as follows.
+
 **Employees**
 *print --> prints out all info, including name, contact info, bank routing info, base wage, and earnings per current pay cycle.
 	*name --> prints only the name of the employee
@@ -70,6 +71,7 @@
 	*other --> If user has something to tell the admin that does not fit into the above choices
 *logout --> logs out the current employee, thus allowing a different username & password to be entered.
 *exit --> quits the command line loop.
+
 **Admin**
 *Admin has access to all of the same commands as an Employee, and more. Commands available only to them are as follows:
 *print all employees --> prints out every employees' info in a table-like format
