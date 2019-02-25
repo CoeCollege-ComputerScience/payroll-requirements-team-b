@@ -52,32 +52,32 @@
 
 **Employees**
 
-*print --> prints out all info, including name, contact info, bank routing info, base wage, and earnings per current pay cycle.
-	*name --> prints only the name of the employee
-	*bank --> prints bank routing info
-	*phone --> prints phone number
-	*email --> prints email.
-	*position --> prints position (job name)
-	*salary --> prints the base salary for the employee
-	*earnings --> prints earnings per current pay cycle
-*change --> Allows user to change certain info. Note that only certain fields can be changed.
-	*bank --> changes bank routing info
-	*phone --> changes phone number
-	*email --> changes email
-	*password --> changes password associated with account. Requires the employee to input their old password again before they are allowed to change it.
-*request --> Allows user to submit a request for something, such as:
-	*paycheck --> If user needs their paycheck earlier than pay day
-	*transfer --> If user wants to be transferred to another department/branch of the company
-	*raise --> If user wishes to have a raise
-	*other --> If user has something to tell the admin that does not fit into the above choices
-*logout --> logs out the current employee, thus allowing a different username & password to be entered.
-*exit --> quits the command line loop.
+* print --> prints out all info, including name, contact info, bank routing info, base wage, and earnings per current pay cycle.
+	* name --> prints only the name of the employee
+	* bank --> prints bank routing info
+	* phone --> prints phone number
+	* email --> prints email.
+	* position --> prints position (job name)
+	* salary --> prints the base salary for the employee
+	* earnings --> prints earnings per current pay cycle
+* change --> Allows user to change certain info. Note that only certain fields can be changed.
+	* bank --> changes bank routing info
+	* phone --> changes phone number
+	* email --> changes email
+	* password --> changes password associated with account. Requires the employee to input their old password again before they are allowed to change it.
+* request --> Allows user to submit a request for something, such as:
+	* paycheck --> If user needs their paycheck earlier than pay day
+	* transfer --> If user wants to be transferred to another department/branch of the company
+	* raise --> If user wishes to have a raise
+	* other --> If user has something to tell the admin that does not fit into the above choices
+* logout --> logs out the current employee, thus allowing a different username & password to be entered.
+* exit --> quits the command line loop.
 
 **Admin**
 
-*Admin has access to all of the same commands as an Employee, and more. Commands available only to them are as follows:
-*print all employees --> prints out every employees' info in a table-like format
-*print schedule --> prints the current schedule for the current pay cycle. If none has been specified, the system informs the admin & nothing is printed.
-*create schedule --> allows the admin to assign employees to certain shifts during the current pay cycle. 
-*print requests --> Begins printing requests to admin can read and accept/reject them.
+* Admin has access to all of the same commands as an Employee, and more. Commands available only to them are as follows:
+* print all employees --> prints out every employees' info in a table-like format
+* print schedule --> prints the current schedule for the current pay cycle. If none has been specified, the system informs the admin & nothing is printed.
+* create schedule --> allows the admin to assign employees to certain shifts during the current pay cycle. 
+* print requests --> Begins printing requests to admin can read and accept/reject them.
  
