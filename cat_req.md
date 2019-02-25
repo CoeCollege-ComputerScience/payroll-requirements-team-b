@@ -51,6 +51,7 @@
 * Different commands are available for each user. They are as follows.
 
 **Employees**
+
 *print --> prints out all info, including name, contact info, bank routing info, base wage, and earnings per current pay cycle.
 	*name --> prints only the name of the employee
 	*bank --> prints bank routing info
@@ -73,6 +74,7 @@
 *exit --> quits the command line loop.
 
 **Admin**
+
 *Admin has access to all of the same commands as an Employee, and more. Commands available only to them are as follows:
 *print all employees --> prints out every employees' info in a table-like format
 *print schedule --> prints the current schedule for the current pay cycle. If none has been specified, the system informs the admin & nothing is printed.
