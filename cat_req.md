@@ -36,5 +36,10 @@
 * The system shall be able to move information between records and current information.
 
 # Nonfunctional Requirements
+* Employee information shall include hire date, pay rate, personal information, position, schedule, and benefits
+* The system shall have access to a database of company records
+* The system shall only allow admins to view employees below them in hierarchy
+* The system shall have the ability to connect to employees bank accounts and information
+* The system shall be able to edit/alter the information in the database of company records
 
 # Implementation Requirements
