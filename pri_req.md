@@ -64,21 +64,22 @@
 * The system shall have access to a database of company records
 
 # COULD HAVE
+* Admins should be able to recieve requests from employees. Admins will then be able to approve or decline these requests.
+* Admins should be able to access company records including previous employees and pay cycles.
+* Employees should be able to select method of payment, be it physical or direct deposit.
+* The system shall be able to move information between records and current information.
+* Employees should be able to logout of the system.
+* Employees should be able to logout of the system.
+* Admins should be able to logout of the system.
+* The system will allow business employees a structured way of contacting admins to alter information or allow special cases such as advanced payment, raises, or days off.
 
 
 # WON'T HAVE
 
 # NOT CATEGORIZED YET
 * Employees should be able to alter their passwords.
-* Employees should be able to logout of the system.
-* Admins should be able to recieve requests from employees. Admins will then be able to approve or decline these requests.
-* Admins should be able to access company records including previous employees and pay cycles.
-* Admins should be able to logout of the system.
-* The system shall be able to move information between records and current information.
 * The system shall be able to send requests between employees and admins.
-* Employees should be able to select method of payment, be it physical or direct deposit
 * Employees should be able to submit requests which will be visible to admins. Employees will be able to request advance payment, hours, days off, transferrals, and other pay alterations.
-* The system will allow business employees a structured way of contacting admins to alter information or allow special cases such as advanced payment, raises, or days off.
-* The system shall only allow admins to view employees below them in hierarchy
+* The system shall only allow admins to view employees below them in hierarchy.
 * A database of all usernames and passwords is used for the login system. This file database is not visible to anyone but admins.
 * The username/password database is read only unless an admin approves a password change or is adding/removing a user from the database.
