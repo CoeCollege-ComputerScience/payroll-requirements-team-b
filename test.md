@@ -1,13 +1,13 @@
 **This sure is a test document
 
 
-* ;)
+* ;(
 
 1. item 1
-2. item2
-3. item4
-4. item3
-5. f
+2. item4
+3. item3
+4. f
+5. banana
 6. this is a thing alright. For sure.
-7. 5
-8. o
+7. o
+
