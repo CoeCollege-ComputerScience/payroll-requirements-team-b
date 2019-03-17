@@ -9,8 +9,8 @@
  - If the system could not read in a file, then the user would have to input every piece of information manually every time the program runs. This would get very tedious and would defeat the primary purpose of having a program to do calculations.
 * (Non-Functional) Payroll must be calculated based upon inputted information. 
  - The entire point of a payroll program is to make calculations so the administration does not have to do them manually. Therefore, this is a very important requirement.
-* (Functional) Calculations must deduct taxes, medical and any other extra fees.
-* (Functional) The system must be able to calculate taxes based on stored information unique to the employee.
+* (Functional) Calculations must deduct taxes, medical and any other extra fees. - Calculations need to be done to be able to function for payroll.
+* (Non-Functional) The system must be able to calculate taxes based on stored information unique to the employee. - Taxes and stored information are need to be used for the calculations.
 * (Functional) The print function must return employee names, salary, and net pay. - Employee name, salary, and net pay are the core information needed to operate a basic payroll system, and thus, are the ones we print as output.
 * (Non-Functional) Payroll must be able to be returned in a simple to read format such as a chart. - The data returned must be returned in an easily readable way in order to make the output efficient to read.
 
