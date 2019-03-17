@@ -11,7 +11,7 @@
 * (Functional) The system must be able to calculate taxes based on stored information unique to the employee.
 * (Functional) Payroll must be able to be returned in a simple to read format such as a chart.
 * (Functional) The print function must return employee names, salary, net pay, and bank.
-* (Functional) The print function must print each employee's net pay.
+
 
 
 # SHOULD HAVE - These features are not vital to a payroll system, but add convenient functionalities to the base system.
