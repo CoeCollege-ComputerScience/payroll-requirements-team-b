@@ -6,7 +6,9 @@
 * (User) Admins must be able to add and remove employees from the payroll system
 * (Nonfunctional) Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information
 * (Functional) The system must be able to recieve input from a file containing employee information.
+ - If the system could not read in a file, then the user would have to input every piece of information manually every time the program runs. This would get very tedious and would defeat the primary purpose of having a program to do calculations.
 * (Non-Functional) Payroll must be calculated based upon inputted information. 
+ - The entire point of a payroll program is to make calculations so the administration does not have to do them manually. Therefore, this is a very important requirement.
 * (Functional) Calculations must deduct taxes, medical and any other extra fees.
 * (Functional) The system must be able to calculate taxes based on stored information unique to the employee.
 * (Functional) Payroll must be able to be returned in a simple to read format such as a chart.
