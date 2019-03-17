@@ -24,14 +24,14 @@
 
 
 # COULD HAVE - These features add multiple user types in order to expand functionality beyond that of a simple payroll system.
-* The system could have multiple user types: including admins and employees. Usernames and passwords will be stored in a database accessed only by admins.
-* The system could have an employee user type with alternate permissions, including restrictions on the employee information they are able to view and edit.
-* The system could store login information for each user as well as whether or not they have administrative permissions.
-* Employees could be able to view all information and edit personal information: including hours, pay rate, benefits, documents (insurance info, W2s, etc.), and previous and current checks
-* The Employee could be able to access what taxes or extra fees are causing their earnings total to be less that what they may have initially predicted.
-* The employee could have their own print function, which prints out their personal payroll information, including name, bank info, salary, and net pay.
-* The employee could be able to request administrators through the system to do things such as alter the date of their paycheck, request various legal documents, change access password, or type their own request.
-* Admins could be able to recieve requests from employees. Admins will then be able to approve or decline these requests.
+* (Functional) The system could have multiple user types: including admins and employees. Usernames and passwords will be stored in a database accessed only by admins.
+* (Functional) The system could have an employee user type with alternate permissions, including restrictions on the employee information they are able to view and edit.
+* (Functional) The system could store login information for each user as well as whether or not they have administrative permissions.
+* (User) Employees could be able to view all information and edit personal information: including hours, pay rate, benefits, documents (insurance info, W2s, etc.), and previous and current checks
+* (User) The Employee could be able to access what taxes or extra fees are causing their earnings total to be less than what they may have initially predicted.
+* (User) The employee could have their own print function, which prints out their personal payroll information, including name, bank info, salary, and net pay.
+* (User) The employee could be able to request administrators through the system to do things such as alter the date of their paycheck, request various legal documents, change access password, or type their own request.
+* (User) Admins could be able to recieve requests from employees. Admins will then be able to approve or decline these requests.
 
 
 # WON'T HAVE - These features are outside of the bounds of this project, but could be useful
