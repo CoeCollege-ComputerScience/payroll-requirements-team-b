@@ -35,6 +35,6 @@
 
 
 # WON'T HAVE - These features are outside of the bounds of this project, but could be useful
-* ( ) 
+* (Business) The business won't be able to employee techniques like an app for easy access to payroll functions.
 * (Functional) The system won't have a GUI. It will be run entirely from the command line.
 * (Non-functional) The system won't allow users to request things outside of the scope of payroll such as transfers and raises.
