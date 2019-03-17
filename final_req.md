@@ -13,14 +13,16 @@
 
 
 # SHOULD HAVE - These features are not vital to a payroll system, but add convenient functionalities to the base system.
-* Admins should be able to create and edit employee schedules and pay rates.
-* The system should be able to print the schedule for the current pay cycle.
-* The system should be able to handle paychecks based on employee payment information.
-* Admin users should be able to access, read, & write to all files, both past and present.
-* The system should be able to backup/archive and store records of previous employees and pay cycles.
-* The system should be able to access bank routing information and pay electronically.
-* The system should be able to generate payments according to employee preferences.
-* The system should be able to access archived information in the database of company records.
+* (Business) The system should allow the business to access a wider range of functions, allowing them more flexible use of the data stored for each employee.
+* (Functional) The system should be able to create, alter, and print employee schedules.
+* (User) Admins should be able to create, edit, and print employee schedules.
+* (Non-Functional) The system should use employee information and admin user input to create employee schedules.
+* (Non-Functional) The system should be able to handle paychecks based on employee payment information.
+* (User) Admin users should be able to access, read, & write to all files, both past and present.
+* (Implementation) The system should be able to backup/archive and store records of previous employees and pay cycles.
+* (Non-Functional) The system should be able to access bank routing information and pay electronically.
+* (Non-Functional) The system should be able to generate payments according to employee preferences.
+* (Implementation) The system should be able to access archived information in the database of company records.
 
 
 # COULD HAVE - These features add multiple user types in order to expand functionality beyond that of a simple payroll system.
