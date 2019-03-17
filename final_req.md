@@ -1,6 +1,6 @@
-## Prioritized Requirements
+## Final Requirements List
 
-# MUST HAVE
+# MUST HAVE - These features are vital to a functional payroll system
 * The system must be able to be accessed by administrators/payroll dept.
 * Admins must be able to access employee information and modify any non-personal employee information.
 * Admins must be able to add and remove employees from the payroll system
@@ -12,7 +12,7 @@
 * The print function must return employee names, salary, net pay, and bank. It must also print total payroll information.
 
 
-# SHOULD HAVE
+# SHOULD HAVE - These features are not vital to a payroll system, but add convenient functionalities to the base system.
 * Admins should be able to create and edit employee schedules and pay rates.
 * The system should be able to print the schedule for the current pay cycle.
 * The system should be able to handle paychecks based on employee payment information.
@@ -23,7 +23,7 @@
 * The system should be able to access archived information in the database of company records.
 
 
-# COULD HAVE
+# COULD HAVE - These features add multiple user types in order to expand functionality beyond that of a simple payroll system.
 * The system could have multiple user types: including admins and employees. Usernames and passwords will be stored in a database accessed only by admins.
 * The system could have an employee user type with alternate permissions, including restrictions on the employee information they are able to view and edit.
 * The system could store login information for each user as well as whether or not they have administrative permissions.
@@ -34,6 +34,6 @@
 * Admins could be able to recieve requests from employees. Admins will then be able to approve or decline these requests.
 
 
-# WON'T HAVE
+# WON'T HAVE - These features are outside of the bounds of this project, but could be useful
 * The system won't have a GUI. It will be run entirely from the command line.
 * The system won't allow users to request things outside of the scope of payroll such as transfers and raises.
