@@ -1,10 +1,10 @@
 ## Final Requirements List
 
 # MUST HAVE - These features are vital to a functional payroll system
-* The system must be able to be accessed by administrators/payroll dept.
-* Admins must be able to access employee information and modify any non-personal employee information.
-* Admins must be able to add and remove employees from the payroll system
-* Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information
+* (Nonfunctional) The system must be able to be accessed by administrators/payroll dept.
+* (Nonfunctional)Admins must be able to access employee information and modify any non-personal employee information.
+* (Functional) Admins must be able to add and remove employees from the payroll system
+* (Nonfunctional) Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information
 * The system must be able to recieve input from a file containing employee information.
 * Payroll must be calculated based upon inputted information. Calculations must deduct taxes, medical and any other extra fees.
 * The system must be able to calculate taxes based on stored information unique to the employee.
