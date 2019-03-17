@@ -6,10 +6,12 @@
 * Admins must be able to add and remove employees from the payroll system
 * Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information
 * The system must be able to recieve input from a file containing employee information.
-* (functional) Payroll must be calculated based upon inputted information. Calculations must deduct taxes, medical and any other extra fees.
-* (functional & non-functional) The system must be able to calculate taxes based on stored information unique to the employee.
-* (implementation) Payroll must be able to be returned in a simple to read format such as a chart.
-* (functional) The print function must return employee names, salary, net pay, and bank. It must also print total payroll information.
+* (functional) Payroll must be calculated based upon inputted information. 
+* (functional) Calculations must deduct taxes, medical and any other extra fees.
+* (functional) The system must be able to calculate taxes based on stored information unique to the employee.
+* (functional) Payroll must be able to be returned in a simple to read format such as a chart.
+* (functional) The print function must return employee names, salary, net pay, and bank.
+* (functional) The print function must print each employee's net pay.
 
 
 # SHOULD HAVE - These features are not vital to a payroll system, but add convenient functionalities to the base system.
