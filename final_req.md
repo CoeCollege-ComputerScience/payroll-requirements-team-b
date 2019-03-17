@@ -3,8 +3,8 @@
 # MUST HAVE - These features are vital to a functional payroll system
 * (Nonfunctional) The system must be able to be accessed by administrators/payroll dept.
 * (User)Admins must be able to access employee information and modify any non-personal employee information.
-* (User) Admins must be able to add and remove employees from the payroll system
-* (Nonfunctional) Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information
+* (User) Admins must be able to add and remove employees from the payroll system - Payroll system needs to be kept up to date with current employees.
+* (Nonfunctional) Employee information must include hire date, pay rate, personal information, position, schedule, benefits and tax information - information must be included in order to ensure comprehensive and accurate payroll. 
 * (Functional) The system must be able to recieve input from a file containing employee information.
 * (Non-Functional) Payroll must be calculated based upon inputted information. 
 * (Functional) Calculations must deduct taxes, medical and any other extra fees.
