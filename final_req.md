@@ -11,9 +11,8 @@
  - The entire point of a payroll program is to make calculations so the administration does not have to do them manually. Therefore, this is a very important requirement.
 * (Functional) Calculations must deduct taxes, medical and any other extra fees.
 * (Functional) The system must be able to calculate taxes based on stored information unique to the employee.
-* (Functional) Payroll must be able to be returned in a simple to read format such as a chart.
-* (Functional) The print function must return employee names, salary, net pay, and bank.
-
+* (Functional) The print function must return employee names, salary, and net pay. - Employee name, salary, and net pay are the core information needed to operate a basic payroll system, and thus, are the ones we print as output.
+* (Non-Functional) Payroll must be able to be returned in a simple to read format such as a chart. - The data returned must be returned in an easily readable way in order to make the output efficient to read.
 
 
 # SHOULD HAVE - These features are not vital to a payroll system, but add convenient functionalities to the base system.
@@ -30,6 +29,7 @@
 
 
 # COULD HAVE - These features add multiple user types in order to expand functionality beyond that of a simple payroll system.
+* (Business) These features could allow the employees of the business to have more access to their own personl data.
 * (Functional) The system could have multiple user types: including admins and employees. Usernames and passwords will be stored in a database accessed only by admins.
 * (Functional) The system could have an employee user type with alternate permissions, including restrictions on the employee information they are able to view and edit.
 * (Functional) The system could store login information for each user as well as whether or not they have administrative permissions.
